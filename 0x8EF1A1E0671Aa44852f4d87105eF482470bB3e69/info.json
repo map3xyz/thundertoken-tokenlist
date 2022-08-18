@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x8EF1A1E0671Aa44852f4d87105eF482470bB3e69",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bridged token of BSC on ThunderCore blockchain. The Bridge allows users to convert assets between Ethereum, BSC, HECO and ThunderCore. This is a customized version of POA network Bridge"
+  },
+  "id": "916df640-ea27-4430-9306-9b22d15d3e9a",
+  "links": {
+    "explorer": "https://viewblock.io/thundercore/address/0x8EF1A1E0671Aa44852f4d87105eF482470bB3e69",
+    "website": "https://bridge.thundercore.com/bsc/",
+    "twitter": "https://twitter.com/ThunderProtocol",
+    "discord": "https://discord.com/channels/467102816230440970/468561199790030849"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/thundertoken-tokenlist/master/0x8EF1A1E0671Aa44852f4d87105eF482470bB3e69/logo.png"
+  },
+  "name": "TT-BNB",
+  "networkCode": "thundertoken",
+  "spam": false,
+  "symbol": "TT-BNB",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xFd6Ec3E37F112bD30BbD726E7b0E73000CC2B98d",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Bridged token of HUSD on ThunderCore blockchain. The Bridge allows users to convert assets between Ethereum, BSC, HECO and ThunderCore. This is a customized version of POA network Bridge"
+  },
+  "id": "8e3b24b7-4eb6-49ac-980d-180cb623992c",
+  "links": {
+    "explorer": "https://viewblock.io/thundercore/address/0xFd6Ec3E37F112bD30BbD726E7b0E73000CC2B98d",
+    "website": "https://bridge.thundercore.com/",
+    "twitter": "https://twitter.com/ThunderProtocol",
+    "discord": "https://discord.com/channels/467102816230440970/468561199790030849"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/thundertoken-tokenlist/master/0xFd6Ec3E37F112bD30BbD726E7b0E73000CC2B98d/logo.png"
+  },
+  "name": "TT-HUSD",
+  "networkCode": "thundertoken",
+  "spam": false,
+  "symbol": "TT-HUSD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

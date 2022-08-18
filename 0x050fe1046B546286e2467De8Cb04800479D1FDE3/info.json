@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x050fe1046B546286e2467De8Cb04800479D1FDE3",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "7f5e4c1f-c95e-40d9-86b0-56d2fac2d5dd",
+  "links": {
+    "explorer": "https://viewblock.io/thundercore/address/0x050fe1046B546286e2467De8Cb04800479D1FDE3"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/thundertoken-tokenlist/master/0x050fe1046B546286e2467De8Cb04800479D1FDE3/logo.png"
+  },
+  "name": "TT-USDT",
+  "networkCode": "thundertoken",
+  "spam": false,
+  "symbol": "TT-USDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

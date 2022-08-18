@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x0A733F90D223d47DEa79aBEfF536F10af1068cB0",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "212b97d5-e853-4141-b0ec-9b4612e5cd41",
+  "links": {
+    "explorer": "https://viewblock.io/thundercore/address/0x0A733F90D223d47DEa79aBEfF536F10af1068cB0"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/thundertoken-tokenlist/master/0x0A733F90D223d47DEa79aBEfF536F10af1068cB0/logo.png"
+  },
+  "name": "RMBT",
+  "networkCode": "thundertoken",
+  "spam": false,
+  "symbol": "RMBT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

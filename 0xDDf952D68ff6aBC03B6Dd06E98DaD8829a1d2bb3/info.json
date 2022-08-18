@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xDDf952D68ff6aBC03B6Dd06E98DaD8829a1d2bb3",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "53e36ae7-efb5-472a-87b6-9eaf8bdc8c82",
+  "links": {
+    "explorer": "https://viewblock.io/thundercore/address/0xDDf952D68ff6aBC03B6Dd06E98DaD8829a1d2bb3"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/thundertoken-tokenlist/master/0xDDf952D68ff6aBC03B6Dd06E98DaD8829a1d2bb3/logo.png"
+  },
+  "name": "Cultural Chain (CCC)",
+  "networkCode": "thundertoken",
+  "spam": false,
+  "symbol": "CCC",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,153 @@
+{
+  "name": "@Map3/thundertoken-tokenlist",
+  "timestamp": "2022-08-18T13:25:44.823Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "keywords": [
+    "map3 assets"
+  ],
+  "tags": {
+    "wrapped": {
+      "name": "wrapped",
+      "description": "Asset wrapped using wormhole bridge"
+    },
+    "leveraged": {
+      "name": "leveraged",
+      "description": "Leveraged asset"
+    },
+    "bull": {
+      "name": "bull",
+      "description": "Leveraged Bull asset"
+    },
+    "bear": {
+      "name": "bear",
+      "description": "Leveraged Bear asset"
+    },
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset"
+    },
+    "staking": {
+      "name": "staking",
+      "description": "Tokens that can be staked"
+    }
+  },
+  "logoURI": "https://map3.xyz/images/brand/map3-open-graph.png",
+  "tokens": [
+    {
+      "address": "0x0212b1F75503413b01A98158434c4570FB6e808c",
+      "name": "TT-HT",
+      "decimals": 18,
+      "symbol": "TT-HT",
+      "tags": []
+    },
+    {
+      "address": "0x050fe1046B546286e2467De8Cb04800479D1FDE3",
+      "name": "TT-USDT",
+      "decimals": 18,
+      "symbol": "TT-USDT",
+      "tags": []
+    },
+    {
+      "address": "0x0A733F90D223d47DEa79aBEfF536F10af1068cB0",
+      "name": "RMBT",
+      "decimals": 18,
+      "symbol": "RMBT",
+      "tags": []
+    },
+    {
+      "address": "0x18fB0A62f207A2a082cA60aA78F47a1af4985190",
+      "name": "TT-WBTC",
+      "decimals": 8,
+      "symbol": "TT-WBTC",
+      "tags": []
+    },
+    {
+      "address": "0x22e89898A04eaf43379BeB70bf4E38b1faf8A31e",
+      "name": "TT-USDC",
+      "decimals": 6,
+      "symbol": "TT-USDC",
+      "tags": []
+    },
+    {
+      "address": "0x2b31e3b88847f03c1335E99A0d1274A2c72059DE",
+      "name": "TT-SAI",
+      "decimals": 18,
+      "symbol": "TT-DAI",
+      "tags": []
+    },
+    {
+      "address": "0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82",
+      "name": "TT-USDT",
+      "decimals": 6,
+      "symbol": "TT-USDT",
+      "tags": []
+    },
+    {
+      "address": "0x6576Bb918709906DcbFDCeae4bB1e6df7C8a1077",
+      "name": "TT-ETH",
+      "decimals": 18,
+      "symbol": "TT-ETH",
+      "tags": []
+    },
+    {
+      "address": "0x876e7D048c6151e3D0F93AaBfBf5B7Da605d416F",
+      "name": "CXKJ",
+      "decimals": 8,
+      "symbol": "CXKJ",
+      "tags": []
+    },
+    {
+      "address": "0x8EF1A1E0671Aa44852f4d87105eF482470bB3e69",
+      "name": "TT-BNB",
+      "decimals": 18,
+      "symbol": "TT-BNB",
+      "tags": []
+    },
+    {
+      "address": "0x92B82d80A51D9b280b75C7a3596358B2A67e4859",
+      "name": "TTK",
+      "decimals": 6,
+      "symbol": "TTK",
+      "tags": []
+    },
+    {
+      "address": "0xBEB0131D95AC3F03fd15894D0aDE5DBf7451d171",
+      "name": "TT-BUSD",
+      "decimals": 18,
+      "symbol": "TT-BUSD",
+      "tags": []
+    },
+    {
+      "address": "0xDDf952D68ff6aBC03B6Dd06E98DaD8829a1d2bb3",
+      "name": "Cultural Chain (CCC)",
+      "decimals": 8,
+      "symbol": "CCC",
+      "tags": []
+    },
+    {
+      "address": "0xFd6Ec3E37F112bD30BbD726E7b0E73000CC2B98d",
+      "name": "TT-HUSD",
+      "decimals": 8,
+      "symbol": "TT-HUSD",
+      "tags": []
+    },
+    {
+      "address": "0xa71A7659E5d1824Bc0F71B96332B06097C8D6287",
+      "name": "Emerald (EMD)",
+      "decimals": 5,
+      "symbol": "EMD",
+      "tags": []
+    },
+    {
+      "address": "0xeff6f1612d03205BA5E8d26cAc1397bf778ab1AC",
+      "name": "PALA INT COMM (pala)",
+      "decimals": 8,
+      "symbol": "PALA",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x92B82d80A51D9b280b75C7a3596358B2A67e4859",
+  "color": null,
+  "decimals": 6,
+  "description": null,
+  "id": "a01437ef-3833-45ef-a8df-43e4fb219905",
+  "links": {
+    "explorer": "https://viewblock.io/thundercore/address/0x92B82d80A51D9b280b75C7a3596358B2A67e4859"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/thundertoken-tokenlist/master/0x92B82d80A51D9b280b75C7a3596358B2A67e4859/logo.png"
+  },
+  "name": "TTK",
+  "networkCode": "thundertoken",
+  "spam": false,
+  "symbol": "TTK",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
