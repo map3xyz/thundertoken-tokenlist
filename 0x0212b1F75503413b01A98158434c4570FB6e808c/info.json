@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x0212b1F75503413b01A98158434c4570FB6e808c",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bridged token of HT on ThunderCore blockchain. The Bridge allows users to convert assets between Ethereum, BSC, HECO and ThunderCore. This is a customized version of POA network Bridge"
+  },
+  "id": "a2ede8bc-1689-44e9-a5fc-39dbecae812a",
+  "links": {
+    "explorer": "https://viewblock.io/thundercore/address/0x0212b1F75503413b01A98158434c4570FB6e808c",
+    "website": "https://bridge.thundercore.com/",
+    "twitter": "https://twitter.com/ThunderProtocol",
+    "discord": "https://discord.com/channels/467102816230440970/468561199790030849"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/thundertoken/assets/thundertoken-tokenlist/0x0212b1F75503413b01A98158434c4570FB6e808c/logo.png"
+  },
+  "name": "TT-HT",
+  "networkCode": "thundertoken",
+  "spam": false,
+  "symbol": "TT-HT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

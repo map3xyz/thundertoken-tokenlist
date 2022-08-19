@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x876e7D048c6151e3D0F93AaBfBf5B7Da605d416F",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "0ce0a860-fc38-4f70-9f08-6558eb4bb65b",
+  "links": {
+    "explorer": "https://viewblock.io/thundercore/address/0x876e7D048c6151e3D0F93AaBfBf5B7Da605d416F"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/thundertoken/assets/thundertoken-tokenlist/0x876e7D048c6151e3D0F93AaBfBf5B7Da605d416F/logo.png"
+  },
+  "name": "CXKJ",
+  "networkCode": "thundertoken",
+  "spam": false,
+  "symbol": "CXKJ",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
