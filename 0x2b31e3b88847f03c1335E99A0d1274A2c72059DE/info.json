@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x2b31e3b88847f03c1335E99A0d1274A2c72059DE",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bridged token of SAI on ThunderCore blockchain. The Bridge allows users to convert assets between Ethereum, BSC, HECO and ThunderCore. This is a customized version of POA network Bridge"
+  },
+  "id": "4aa7042a-28c0-4626-813b-2f312949ab68",
+  "links": {
+    "explorer": "https://viewblock.io/thundercore/address/0x2b31e3b88847f03c1335E99A0d1274A2c72059DE",
+    "website": "https://bridge.thundercore.com/",
+    "twitter": "https://twitter.com/ThunderProtocol",
+    "discord": "https://discord.com/channels/467102816230440970/468561199790030849"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/thundertoken/assets/thundertoken-tokenlist/0x2b31e3b88847f03c1335E99A0d1274A2c72059DE/logo.png"
+  },
+  "name": "TT-SAI",
+  "networkCode": "thundertoken",
+  "spam": false,
+  "symbol": "TT-DAI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

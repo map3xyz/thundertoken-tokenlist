@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0xeff6f1612d03205BA5E8d26cAc1397bf778ab1AC",
+  "color": null,
+  "decimals": 8,
+  "description": null,
+  "id": "e913ec73-eb5f-4c32-8805-868de104d157",
+  "links": {
+    "explorer": "https://viewblock.io/thundercore/address/0xeff6f1612d03205BA5E8d26cAc1397bf778ab1AC"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/thundertoken/assets/thundertoken-tokenlist/0xeff6f1612d03205BA5E8d26cAc1397bf778ab1AC/logo.png"
+  },
+  "name": "PALA INT COMM (pala)",
+  "networkCode": "thundertoken",
+  "spam": false,
+  "symbol": "PALA",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Bridged token of USDT on ThunderCore blockchain. The Bridge allows users to convert assets between Ethereum, BSC, HECO and ThunderCore. This is a customized version of POA network Bridge"
+  },
+  "id": "79b09ada-80df-4d5d-817f-f679f2e6e465",
+  "links": {
+    "explorer": "https://viewblock.io/thundercore/address/0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82",
+    "website": "https://bridge.thundercore.com/",
+    "twitter": "https://twitter.com/ThunderProtocol",
+    "discord": "https://discord.com/channels/467102816230440970/468561199790030849"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/thundertoken/assets/thundertoken-tokenlist/0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82/logo.png"
+  },
+  "name": "TT-USDT",
+  "networkCode": "thundertoken",
+  "spam": false,
+  "symbol": "TT-USDT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
